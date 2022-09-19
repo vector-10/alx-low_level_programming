@@ -1,0 +1,1 @@
+A folder containing assingments on pointers, arrays
