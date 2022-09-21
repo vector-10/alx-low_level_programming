@@ -1,0 +1,1 @@
+A folder on pointers, arrays and strings in the ALX program
