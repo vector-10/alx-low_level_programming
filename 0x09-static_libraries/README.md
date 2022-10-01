@@ -1,0 +1,1 @@
+This is a folder containing static libraries in C
